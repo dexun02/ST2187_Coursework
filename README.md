@@ -10,7 +10,7 @@ The goal of this project was to uncover the root causes behind declining profita
 
 - **Tableau** – for data visualization and interactive dashboards  
 - **Excel / CSV** – as data source  
-- **PowerPoint / Word** – for report presentation
+- **Microsoft Word** – for report presentation
 
 ## Author
 
